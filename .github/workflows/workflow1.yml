@@ -11,5 +11,4 @@ jobs:
       - name: Print a message
         run: echo "Hello! The pipeline is working successfully."
         
-      - name: List files
-        run: ls -la
+     
